@@ -1,0 +1,1 @@
+This is "Hello world" on Gin web framework
